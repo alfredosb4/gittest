@@ -1,2 +1,2 @@
 pruebas
-listado desde git
+listado local
